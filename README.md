@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shxlock.github.io/Portafolio/](https://shxlock.github.io/Portafolio/)
 
-- 💬 Ask me about **Python, Django, Javascript**
+- 💬 Ask me about **Python, Django, Nodejs**
 
 - 📫 How to reach me **albarracinjuancarlos800@gmail.com**
 
